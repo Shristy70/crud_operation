@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(78, 3, 3);
+  font-size: 40px;
+}
+.user {
+  font-style: italic;
+  font-size: 30px;
+}
+.content {
+  color: rgb(124, 1, 42);
+  font-size: 25px;
+}
+.div {
+  background-color: rgb(239, 182, 182);
+  padding-left: 30px;
+}
